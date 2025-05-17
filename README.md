@@ -20,7 +20,7 @@ This repository is dedicated to **user feedback, issue tracking, and support** f
 
 ## 📝 Notes for Effective Feedback  
 - **Check existing issues** to avoid duplicates.  
-- For **setup questions**, review the [Documentation](fab-platform-link) and the included **Demo Map** first.  
+- For **setup questions**, review the [Description](https://fab.com/s/d590fc5ef8fe) and the included **Demo Map** first.  
 - Use concise titles, e.g., `[Bug] Animation Transition Failure When Jumping Off Ladder`.  
 
 ---
@@ -33,7 +33,7 @@ We welcome constructive feedback! If you propose a feature:
 ---
 
 ## 🔗 Contact  
-- **Marketplace/Fab Link**: [Ladder Climber](fab-platform-link)  
+- **Marketplace/Fab Link**: [Ladder Climber](https://fab.com/s/d590fc5ef8fe)
 - For **urgent issues**, tag `@your-username` in the issue or comment.  
 
 ---
